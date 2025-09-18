@@ -10,13 +10,13 @@
 <a href="https://d31d2jnp0zhw1y.cloudfront.net/Blade_Render.mp4" target="_blank" rel="noopener noreferrer">
   <img src="/Blade/Renders/Blade.png"
        alt="Sword Render"
-       style="width:500px;height:auto;display:block;">
+       style="width:400px;height:auto;display:block;">
 </a>
   
 <a href="https://d31d2jnp0zhw1y.cloudfront.net/Blade_Render.mp4" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/64fa6e14-02b5-461f-bf34-b4773e9a0c2c"
        alt="Sword Render"
-       style="width:500px;height:auto;display:block;">
+       style="width:400px;height:auto;display:block;">
 </a></p>
 
 
