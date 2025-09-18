@@ -6,7 +6,7 @@
 > Click the image or the GIF to view the original rendered animation!
 
 
-<p float="left">
+<p align="center" float="left">
 <a href="https://d31d2jnp0zhw1y.cloudfront.net/Blade_Render.mp4" target="_blank" rel="noopener noreferrer">
   <img src="/Blade/Renders/Blade.png"
        alt="Sword Render"
