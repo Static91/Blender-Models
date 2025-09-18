@@ -3,7 +3,7 @@
 
 ### 1. Sword
 > [!TIP]
-> Click the image or the GIF to view the original rendered animation!
+> **Click the image or the GIF to view the original rendered animation!**
 
 
 <p align="center" float="left">
@@ -22,7 +22,7 @@
 
 ### 2. Donut
 > [!TIP]
-> Click the image or the GIF to view the original rendered animation!
+> **Click the image or the GIF to view the original rendered animation!**
 
 [![Donut Render](/Donut/Renders/Donut_with_MB.png)](https://d31d2jnp0zhw1y.cloudfront.net/Donut_Render.mp4)  
 
