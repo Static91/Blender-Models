@@ -19,8 +19,24 @@
        style="width:400px;height:auto;display:block;">
 </a></p>
 
+### 2. Minecraft Scene
+> [!TIP]
+> **Click the image or the GIF to view the original rendered animation!**
 
-### 2. Donut
+<p align="center" float="left">
+<a href="https://d31d2jnp0zhw1y.cloudfront.net/Minecraft_Scene.mp4" target="_blank" rel="noopener noreferrer">
+  <img src="/Minecraft_Scene/Renders/Minecraft_Scene.png"
+       alt="Minecraft Render"
+       style="width:400px;height:auto;display:block;">
+</a>
+
+<a href="https://d31d2jnp0zhw1y.cloudfront.net/Minecraft_Scene.mp4" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/057e957d-08ef-46b8-a187-65bee748780e"
+       alt="Minecraft Render"
+       style="width:400px;height:auto;display:block;">
+</a></p>
+
+### 3. Donut
 > [!TIP]
 > **Click the image or the GIF to view the original rendered animation!**
 
