@@ -2,9 +2,7 @@
 <h3 align="center">Collection of my Blender Models and Animations</h3>
 
 ### 1. Sword
-> [!TIP]
-> **Click the image or the GIF to view the original rendered animation!**
-
+> Learning scene creation, lighting and a bit more on geometry nodes.
 
 <p align="center" float="left">
 <a href="https://d31d2jnp0zhw1y.cloudfront.net/Blade_Render.mp4" target="_blank" rel="noopener noreferrer">
@@ -19,9 +17,13 @@
        style="width:400px;height:auto;display:block;">
 </a></p>
 
-### 2. Minecraft Scene
 > [!TIP]
 > **Click the image or the GIF to view the original rendered animation!**
+
+---
+
+### 2. Minecraft Scene
+> Playing around with rigid body physics.
 
 <p align="center" float="left">
 <a href="https://d31d2jnp0zhw1y.cloudfront.net/Minecraft_Scene.mp4" target="_blank" rel="noopener noreferrer">
@@ -36,9 +38,13 @@
        style="width:400px;height:auto;display:block;">
 </a></p>
 
-### 3. Donut
 > [!TIP]
 > **Click the image or the GIF to view the original rendered animation!**
+
+---
+
+### 3. Donut
+> Learning about subsurface scattering and compositing and learning about importing and applying PBR textures in geometry nodes.
 
 [![Donut Render](/Donut/Renders/Donut_with_MB.png)](https://d31d2jnp0zhw1y.cloudfront.net/Donut_Render.mp4)  
 
@@ -48,6 +54,11 @@
        alt="Donut Render"
        style="width:800px;height:auto;display:block;">
 </a></p>
+
+> [!TIP]
+> **Click the image or the GIF to view the original rendered animation!**
+
+---
 
 > [!NOTE]
 > - The original renders are encoded in 10-Bit color depth.
