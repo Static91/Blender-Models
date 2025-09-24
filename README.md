@@ -43,7 +43,28 @@
 
 ---
 
-### 3. Donut
+### 3. TIE Fighter
+> Modelling and trying out complex geometry shapes.
+
+<p align="center" float="left">
+<a href="/TIE_Fighter/Screenshot/TIE_Fighter.png" target="_blank" rel="noopener noreferrer">
+  <img src="/TIE_Fighter/Screenshot/TIE_Fighter.png"
+       alt="TIE Fighter"
+       style="width:400px;height:auto;display:block;">
+</a>
+
+<a href="/TIE_Fighter/Screenshot/TIE_Fighter_Front.png" target="_blank" rel="noopener noreferrer">
+  <img src="/TIE_Fighter/Screenshot/TIE_Fighter_Front.png"
+       alt="TIE Fighter"
+       style="width:400px;height:auto;display:block;">
+</a></p>
+
+---
+
+
+
+
+### 4. Donut
 > Learning about subsurface scattering and compositing and learning about importing and applying PBR textures in geometry nodes.
 
 [![Donut Render](/Donut/Renders/Donut_with_MB.png)](https://d31d2jnp0zhw1y.cloudfront.net/Donut_Render.mp4)  
